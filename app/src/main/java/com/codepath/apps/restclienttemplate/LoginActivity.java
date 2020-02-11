@@ -12,7 +12,7 @@ import com.codepath.apps.restclienttemplate.models.SampleModelDao;
 import com.codepath.oauth.OAuthLoginActionBarActivity;
 
 public class LoginActivity extends OAuthLoginActionBarActivity<TwitterClient> {
-//123
+//1234
 	SampleModelDao sampleModelDao;
 	
 	@Override
